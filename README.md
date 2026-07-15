@@ -6,8 +6,8 @@
 
 <small><em>
 Generated With:</br>
-[@divisionseven/chromedeck](https://github.com/divisionseven/chromedeck)</br>
-[@divisionseven/artty](https://github.com/divisionseven/artty)
+[TermDeck](https://github.com/divisionseven/termdeck) (Terminal Slide Deck Engine - Coming Soon)</br>
+[arTTY](https://github.com/divisionseven/artty) (Braille ASCII Art Converter)
 </small></em>
 
 </div>
