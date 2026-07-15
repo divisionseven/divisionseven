@@ -5,6 +5,7 @@
 </a>
 
 ***Generated Using:***</br>
-*[@divisionseven/chromedeck](https://github.com/divisionseven/chromedeck) · [@divisionseven/artty](https://github.com/divisionseven/artty)*
+*[@divisionseven/chromedeck](https://github.com/divisionseven/chromedeck)*</br>
+*[@divisionseven/artty](https://github.com/divisionseven/artty)*
 
 </div>
