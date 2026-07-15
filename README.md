@@ -4,8 +4,10 @@
   <img src="1.1LH-24FS-QUANT-B-CHROME.gif" alt="Division 7 Portfolio Presentation" width="100%">
 </a>
 
-***Generated Using:***</br>
-*[@divisionseven/chromedeck](https://github.com/divisionseven/chromedeck)*</br>
-*[@divisionseven/artty](https://github.com/divisionseven/artty)*
+<small><em>
+Generated With:</br>
+[@divisionseven/chromedeck](https://github.com/divisionseven/chromedeck)</br>
+[@divisionseven/artty](https://github.com/divisionseven/artty)
+</small></em>
 
 </div>
